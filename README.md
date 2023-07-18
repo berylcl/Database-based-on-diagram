@@ -1,11 +1,4 @@
 # Database-based-on-diagram
-<a name="readme-top"></a>
-<div align="center">
-
-  <h3><b># Database-based-on-diagram</b></h3>
-
-</div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -129,7 +122,7 @@ If you like this project please give it a Start ⭐️.
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **Can I Fork it and Imporove on it**
+- **Can I Fork it and Improve on it**
 
   - Yes, You can, feel free.
 
@@ -138,7 +131,7 @@ If you like this project please give it a Start ⭐️.
   - Yes please, nice ideas are welcome, please.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## Note
+# Note
 
 - It's important to review and modify the script as per your specific needs before executing it.
 - Make sure to have appropriate access rights and permissions to create tables and define foreign key constraints in your database.

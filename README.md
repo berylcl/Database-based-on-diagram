@@ -20,7 +20,7 @@
 - [📝 License](#license)
 
 
-# 📖  Vet Clinic <a name="about-project"></a>
+# 📖  Database-based-on-diagram <a name="about-project"></a>
 
 **Database-based-on-diagram** This repository contains an SQL script that creates a database schema based on the provided diagram. The schema consists of several tables representing the relationships between patients, medical histories, invoices, invoice items, and treatments.
 ## 🛠 Built With <a name="built-with"></a>
@@ -131,7 +131,8 @@ If you like this project please give it a Start ⭐️.
   - Yes please, nice ideas are welcome, please.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-# Note
+
+## :heavy_check_mark:NOTE
 
 - It's important to review and modify the script as per your specific needs before executing it.
 - Make sure to have appropriate access rights and permissions to create tables and define foreign key constraints in your database.
